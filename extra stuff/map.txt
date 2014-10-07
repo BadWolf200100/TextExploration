@@ -1,0 +1,44 @@
+*People
+*
+Person
+Hello
+-
+*Items
+*
+Item
+-
+*Narrations
+*
+This is a test map.
+-
+*Rooms
+*
+Room Name
+A room.
+Person 0 0
+-
+Room Name2
+Another room.
+Item 1
+-
+Room Name3
+Roomy room.
+1
+-
+Room Name4
+Empty room.
+-
+*Room Connections
+*
+Room Name
+Room Name2
+-
+Room Name
+Room Name3
+-
+Room Name3
+Room Name4
+-
+*Events
+*
+DO MORE HERE.
